@@ -182,6 +182,8 @@ app.post('/save_response' , (req,res)=>{
 
     var now = new Date()
 
+    var answers = req.body.answers.split(',')
+
      for(var i=0; i<answers.length; i++){
          answers[i] = answers[i].replace('<seperation>',',')
      }

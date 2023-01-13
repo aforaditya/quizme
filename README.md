@@ -1,4 +1,4 @@
 # quizme
 
-Test link : https://quizmeproject.herokuapp.com/?quiz=test
-Admin console : https://quizmeproject.herokuapp.com/admin
+Test link : https://quizme-4hdz.onrender.com/?quiz=test
+Admin console : https://quizme-4hdz.onrender.com/admin
